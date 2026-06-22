@@ -1,0 +1,26 @@
+[
+    {
+        "email": "Dear Candidate,\r\n\r\nGreetings from SkillInfyTech IT",
+        "risk": "HIGH",
+        "confidence": 53.73,
+        "time": "22-06-2026 14:51"
+    },
+    {
+        "email": "The team meeting is Scheduled for wednesday \r\n \r\nw",
+        "risk": "LOW",
+        "confidence": 58.25,
+        "time": "22-06-2026 14:52"
+    },
+    {
+        "email": "WARNING: This is a development server. Do not use ",
+        "risk": "HIGH",
+        "confidence": 50.31,
+        "time": "22-06-2026 15:00"
+    },
+    {
+        "email": "Your Account is suspendes . click this linkl to re",
+        "risk": "HIGH",
+        "confidence": 58.69,
+        "time": "22-06-2026 15:02"
+    }
+]
